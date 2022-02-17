@@ -5,9 +5,9 @@
 
 # 🏆 Rules:
 - [Rule #1]: 🌟 Keep it simple. 🌟
-- [Rule #2]: 💢 Are you stupid? Did you read 'Rule #1'?! So why did you overengineered it?
+- [Rule #2]: 💢 Are you stupid? Did you read "Rule #1"?! So why did you overengineered it?
 - [Rule #3]: 🌝 Be sarcastic. Or yourself. Ah, it's the same thing, sorry.
-- [Rule #4]: 👑 Remember to be "the crazy one." He is the only one who continues to grow because he is not ashamed to ask. 'The master' won't learn anything even if he needed to.
+- [Rule #4]: 👑 Remember to be "the fool." He is the only one who continues to grow because he is not ashamed to ask. "The master" won't learn anything even if he needed to.
 
 # ✈️ In [2022], I want to be:
 - :o: Full Stack Developer 💪
