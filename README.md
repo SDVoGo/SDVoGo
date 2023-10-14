@@ -9,13 +9,6 @@
 - [Rule #3]: 🌝 Be sarcastic. Or yourself. Ah, it's the same thing, sorry.
 - [Rule #4]: 👑 Remember to be "the fool." He is the only one who continues to grow because he is not ashamed to ask. "The master" won't learn anything even if he needed to.
 
-# ✈️ In [2022], I want to be:
-- :o: Full Stack Developer 💪
-- :o: Blockchain Developer 🔗
-- :o: Data Scientist 🧪
-- :o: Blender Artist 🎨
-- :o: Online Trader 📈
-
 # 👅 Known Languages
 >_I don't know what I don't know._
 
