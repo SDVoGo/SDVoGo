@@ -12,15 +12,6 @@
 # 👅 Known Languages
 >_I don't know what I don't know._
 
-So don't ask me how much I know about it.
-
-- Python 🐍
-- Html5
-- Css3
-- Sass 
-- C# 🔪
-- Java ☕
-
 # 🔗 Links & Contacts
 - [:octocat:  GitPage](https://sdvogo.github.io/)
 - [📸 Instagram](https://www.instagram.com/_trustnobire_/)
