@@ -19,8 +19,11 @@
 <h2 align="left">🦇  Bio</h2>
 
 ###
-
+$${\color{green}Pro}$$
 <p align="left">- 🛠️ I’m always experimenting with new approaches and ideas.<br>- 🌱 I’m passionate about continuous learning and growth.<br>- 🎮 In my free time, I enjoy solving puzzles and discovering new strategies.</p>
+
+$${\color{red}Cons}$$
+<p align="left">- 💀 I don't use "Hello World!".</p>
 
 ###
 
