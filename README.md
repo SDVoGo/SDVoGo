@@ -97,7 +97,7 @@ $${\color{red}Cons}$$
 
 ###
 
-<h3 align="center">🔥   My Activities:</h3>
+<h2 align="center">🔥   My Activities:</h3>
 
 ###
 
@@ -105,13 +105,3 @@ $${\color{red}Cons}$$
   <img src="https://streak-stats.demolab.com?user=SDVoGo&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SDVoGo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&order=2" height="173" alt="languages graph"  />
 </div>
-
-###
-
-<h6 align="left">Apologies for disappointing you, but I use GitHub for private work. In the meantime, here's a Pacman gameplay for you.</h6>
-
-###
-
-<img src="https://pacman.abozanona.me?username=SDVoGo" />
-
-###
